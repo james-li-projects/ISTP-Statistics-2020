@@ -3,7 +3,7 @@
 README for Running the Code
 TL;DR: Download all the files on the GitHub repository and use the “Instructions for running code using GitHub files” to run Step 1 and Step 2 in the code (pre-processing steps) rather than directly running the code in the master_script.R file. Make sure to run these specific instructions before running any of the subsequent analysis in Steps 3 to 6!
 
-Description and background for our files:
+Description and background for our files (as well as links to the original larger files on Google Drive):
 Step 1 and Step 2: these include the initial processing and annotation steps of our data. These steps are really computationally intensive and our GitHub repository only contains data files that are already processed in order to save run time. Here are Google Drive links to the raw data files in case you would like to run them (EXTREMELY time intense in Step 2): 
 https://drive.google.com/file/d/1q08eXj0qvNMuH-LuVP6Fu6mSO-W01B-j/view?usp=sharing 
 https://drive.google.com/file/d/1fBdi0DzRu-jTROAQ5_80nuUH-x3NM9Ot/view?usp=sharing
