@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1fBdi0DzRu-jTROAQ5_80nuUH-x3NM9Ot/view?usp=shari
 The instructions below are essential to run code using only the GitHub files and you shouldn’t need to run any other commands within Steps 1 and 2 besides the ones listed below.
 
 Instructions for running code using GitHub files (run only these lines in order to bypass the extremely time intensive Steps 1 and 2): 
-Install and run all necessary packages using lines 11-36
-Load our central gene expression data table for all the patients using lines 66-68
-Load pairwise cancer cohort comparison data for every single gene using line 102
-Congrats on finishing Step 1 and 2! Now you can run the code normally and however you want from Step 3 and after!
+1) Install and run all necessary packages using lines 11-36
+2) Load our central gene expression data table for all the patients using lines 66-68
+3) Load pairwise cancer cohort comparison data for every single gene using line 102
+4) Congrats on finishing Step 1 and 2! Now you can run the code normally and however you want from Step 3 and after!
