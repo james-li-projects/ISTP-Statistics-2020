@@ -1,6 +1,7 @@
 # ISTP-Statistics-2020
 
-README for Running the Code \n
+README for Running the Code
+
 TL;DR: Download all the files on the GitHub repository and use the “Instructions for running code using GitHub files” to run Step 1 and Step 2 in the code (pre-processing steps) rather than directly running the code in the master_script.R file. Make sure to run these specific instructions before running any of the subsequent analysis in Steps 3 to 6!
 
 Description and background for our files (as well as links to the original larger files on Google Drive):
